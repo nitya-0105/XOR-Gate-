@@ -1,0 +1,15 @@
+
+
+An XOR (Exclusive OR) gate is a fundamental logic gate used in digital circuits. It performs a logical operation where the output is true (1) if and only if the inputs are different. Otherwise, the output is false (0).
+
+Truth Table
+
+| Input A | Input B | Output (A ⊕ B) |
+| ------- | ------- | -------------- |
+| 0       | 0       | 0              |
+| 0       | 1       | 1              |
+| 1       | 0       | 1              |
+| 1       | 1       | 0              |
+
+
+
